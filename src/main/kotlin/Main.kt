@@ -11,6 +11,5 @@ fun main(args: Array<String>) {
         x = a
     }
     text_ += x
-
     print(text_.reversed())
 }
